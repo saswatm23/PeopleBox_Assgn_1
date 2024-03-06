@@ -1,0 +1,10 @@
+(1)We have defined a calculate_tenure() function which will be 
+     taking starting date and ending date as arguements and provide
+     us service period in days.
+
+(2)We have also defined a convert_data() function which we will
+     be using to change the structure of the Dataframe where we will
+     iter through each row of the dataset and form a new structure from it.
+
+(3) we have also wrote a function to define effective date and end date
+      using the datetime functionalities.    
